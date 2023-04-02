@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a software engineer at [Airnity](https://www.airnity.com/) working on providing global cellular connectivity to connected cars.
+
 <!--
 **adriffaud/adriffaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
